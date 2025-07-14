@@ -1,0 +1,1020 @@
+@font-face {
+    font-family: 'SH_freehand';
+    src: url('../fonts/custom-fonts/SH_freehand.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SH_freehand.woff') format('woff'),
+    url('../fonts/custom-fonts/SH_freehand.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Motken K Homa';
+    src: url('../fonts/custom-fonts/MotkenKHoma.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MotkenKHoma.woff') format('woff'),
+    url('../fonts/custom-fonts/MotkenKHoma.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS ISLAND HIGH';
+    src: url('../fonts/custom-fonts/MCSISLANDHIGH.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSISLANDHIGH.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSISLANDHIGH.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Al-Mujahed Al-Anbobi';
+    src: url('../fonts/custom-fonts/Al-MujahedAl-Anbobi.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Al-MujahedAl-Anbobi.woff') format('woff'),
+    url('../fonts/custom-fonts/Al-MujahedAl-Anbobi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Jeddah S_U normal.';
+    src: url('../fonts/custom-fonts/MCSJeddahS_Unormal.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSJeddahS_Unormal.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSJeddahS_Unormal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AL-Fares';
+    src: url('../fonts/custom-fonts/AL-Fares.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AL-Fares.woff') format('woff'),
+    url('../fonts/custom-fonts/AL-Fares.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Hor 4 S_U Bite 2000';
+    src: url('../fonts/custom-fonts/AlawiHashimBafageeh.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.woff') format('woff'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS_Japan';
+    src: url('../fonts/custom-fonts/FS_Japan.woff2') format('woff2'),
+    url('../fonts/custom-fonts/FS_Japan.woff') format('woff'),
+    url('../fonts/custom-fonts/FS_Japan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS_Fantazia';
+    src: url('../fonts/custom-fonts/FS_Fantazia.woff2') format('woff2'),
+    url('../fonts/custom-fonts/FS_Fantazia.woff') format('woff'),
+    url('../fonts/custom-fonts/FS_Fantazia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS_Cairo';
+    src: url('../fonts/custom-fonts/FS_Cairo.woff2') format('woff2'),
+    url('../fonts/custom-fonts/FS_Cairo.woff') format('woff'),
+    url('../fonts/custom-fonts/FS_Cairo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Abha S_I curve.';
+    src: url('../fonts/custom-fonts/MCSAbhaS_Icurve.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSAbhaS_Icurve.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSAbhaS_Icurve.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Motken daeira';
+    src: url('../fonts/custom-fonts/Motkendaeira.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Motkendaeira.woff') format('woff'),
+    url('../fonts/custom-fonts/Motkendaeira.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS_India';
+    src: url('../fonts/custom-fonts/FS_India.woff2') format('woff2'),
+    url('../fonts/custom-fonts/FS_India.woff') format('woff'),
+    url('../fonts/custom-fonts/FS_India.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AF_Unizah';
+    src: url('../fonts/custom-fonts/AF_Unizah-Normal.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AF_Unizah-Normal.woff') format('woff'),
+    url('../fonts/custom-fonts/AF_Unizah-Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGA Kayrawan';
+    src: url('../fonts/custom-fonts/AGA-KayrawanRegular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AGA-KayrawanRegular.woff') format('woff'),
+    url('../fonts/custom-fonts/AGA-KayrawanRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGA Nada';
+    src: url('../fonts/custom-fonts/AGA-NadaRegular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AGA-NadaRegular.woff') format('woff'),
+    url('../fonts/custom-fonts/AGA-NadaRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bassam Ostorah';
+    src: url('../fonts/custom-fonts/BassamOstorah.woff2') format('woff2'),
+    url('../fonts/custom-fonts/BassamOstorah.woff') format('woff'),
+    url('../fonts/custom-fonts/BassamOstorah.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Youssef';
+    src: url('../fonts/custom-fonts/Youssef-Reguler.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Youssef-Reguler.woff') format('woff'),
+    url('../fonts/custom-fonts/Youssef-Reguler.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Motken Ramlah';
+    src: url('../fonts/custom-fonts/MotkenRamlah.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MotkenRamlah.woff') format('woff'),
+    url('../fonts/custom-fonts/MotkenRamlah.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hacen Samra Lt';
+    src: url('../fonts/custom-fonts/HacenSamraLt.woff2') format('woff2'),
+    url('../fonts/custom-fonts/HacenSamraLt.woff') format('woff'),
+    url('../fonts/custom-fonts/HacenSamraLt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shurooq 07';
+    src: url('../fonts/custom-fonts/AlawiHashimBafageeh.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.woff') format('woff'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maghribi Assile';
+    src: url('../fonts/custom-fonts/AchamelSoftMaghribiAssile.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AchamelSoftMaghribiAssile.woff') format('woff'),
+    url('../fonts/custom-fonts/AchamelSoftMaghribiAssile.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Hor 2 S_I Normal 2000';
+    src: url('../fonts/custom-fonts/AlawiHashimBafageeh.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.woff') format('woff'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sultan';
+    src: url('../fonts/custom-fonts/Sultanbold.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Sultanbold.woff') format('woff'),
+    url('../fonts/custom-fonts/Sultanbold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A- Amir 1';
+    src: url('../fonts/custom-fonts/A-Amir1.woff2') format('woff2'),
+    url('../fonts/custom-fonts/A-Amir1.woff') format('woff'),
+    url('../fonts/custom-fonts/A-Amir1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AL-Qairwan';
+    src: url('../fonts/custom-fonts/AL-Qairwan.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AL-Qairwan.woff') format('woff'),
+    url('../fonts/custom-fonts/AL-Qairwan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS FREEDOM SHADOW';
+    src: url('../fonts/custom-fonts/MCSFREEDOMSHADOW.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSFREEDOMSHADOW.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSFREEDOMSHADOW.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mohammad Laha';
+    src: url('../fonts/custom-fonts/MohammadLaha.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MohammadLaha.woff') format('woff'),
+    url('../fonts/custom-fonts/MohammadLaha.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Shurooq 05';
+    src: url('../fonts/custom-fonts/AlawiHashimBafageeh.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.woff') format('woff'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS_Wood';
+    src: url('../fonts/custom-fonts/FS_Wood.woff2') format('woff2'),
+    url('../fonts/custom-fonts/FS_Wood.woff') format('woff'),
+    url('../fonts/custom-fonts/FS_Wood.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mohammad Annoktah';
+    src: url('../fonts/custom-fonts/MohammadAnnoktah.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MohammadAnnoktah.woff') format('woff'),
+    url('../fonts/custom-fonts/MohammadAnnoktah.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Al-Mujahed Free';
+    src: url('../fonts/custom-fonts/Al-MujahedFree.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Al-MujahedFree.woff') format('woff'),
+    url('../fonts/custom-fonts/Al-MujahedFree.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Khibar S_U fissured.';
+    src: url('../fonts/custom-fonts/MCSKhibarS_Ufissured.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSKhibarS_Ufissured.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSKhibarS_Ufissured.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS TOPAZ';
+    src: url('../fonts/custom-fonts/MCSTOPAZ.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSTOPAZ.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSTOPAZ.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Jeddah S_U stars.';
+    src: url('../fonts/custom-fonts/MCSJeddahS_Ustars.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSJeddahS_Ustars.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSJeddahS_Ustars.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGA Dimnah';
+    src: url('../fonts/custom-fonts/AGA-DimnahRegular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AGA-DimnahRegular.woff') format('woff'),
+    url('../fonts/custom-fonts/AGA-DimnahRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sultan light2';
+    src: url('../fonts/custom-fonts/Sultanlight2.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Sultanlight2.woff') format('woff'),
+    url('../fonts/custom-fonts/Sultanlight2.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sultan rectangle';
+    src: url('../fonts/custom-fonts/Sultanrectangle.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Sultanrectangle.woff') format('woff'),
+    url('../fonts/custom-fonts/Sultanrectangle.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'mokhtar_daiery';
+    src: url('../fonts/custom-fonts/mokhtar_daiery.woff2') format('woff2'),
+    url('../fonts/custom-fonts/mokhtar_daiery.woff') format('woff'),
+    url('../fonts/custom-fonts/mokhtar_daiery.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALAWI-3-8';
+    src: url('../fonts/custom-fonts/AlawiHashimBafageeh.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.woff') format('woff'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'arabswell_1';
+    src: url('../fonts/custom-fonts/arabswell_1.woff2') format('woff2'),
+    url('../fonts/custom-fonts/arabswell_1.woff') format('woff'),
+    url('../fonts/custom-fonts/arabswell_1.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Rika S_U normal.';
+    src: url('../fonts/custom-fonts/MCSRikaS_Unormal.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSRikaS_Unormal.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSRikaS_Unormal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGA Sindibad';
+    src: url('../fonts/custom-fonts/AGA-SindibadRegular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AGA-SindibadRegular.woff') format('woff'),
+    url('../fonts/custom-fonts/AGA-SindibadRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Diwani0 S_U normal.';
+    src: url('../fonts/custom-fonts/MCSDiwani0S_Unormal.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSDiwani0S_Unormal.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSDiwani0S_Unormal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Midan';
+    src: url('../fonts/custom-fonts/Midan.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Midan.woff') format('woff'),
+    url('../fonts/custom-fonts/Midan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'khalaad al-arabeh 2';
+    src: url('../fonts/custom-fonts/khalaadal-arabeh2.woff2') format('woff2'),
+    url('../fonts/custom-fonts/khalaadal-arabeh2.woff') format('woff'),
+    url('../fonts/custom-fonts/khalaadal-arabeh2.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_REHAN';
+    src: url('../fonts/custom-fonts/SC_REHAN.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_REHAN.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_REHAN.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AF_Jeddah';
+    src: url('../fonts/custom-fonts/AF_Jeddah-NormalTraditional.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AF_Jeddah-NormalTraditional.woff') format('woff'),
+    url('../fonts/custom-fonts/AF_Jeddah-NormalTraditional.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'sultan - free';
+    src: url('../fonts/custom-fonts/sultan-free.woff2') format('woff2'),
+    url('../fonts/custom-fonts/sultan-free.woff') format('woff'),
+    url('../fonts/custom-fonts/sultan-free.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_AMEEN';
+    src: url('../fonts/custom-fonts/SC_AMEEN.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_AMEEN.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_AMEEN.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A- Tahrir 4';
+    src: url('../fonts/custom-fonts/A-Tahrir4.woff2') format('woff2'),
+    url('../fonts/custom-fonts/A-Tahrir4.woff') format('woff'),
+    url('../fonts/custom-fonts/A-Tahrir4.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD_Farsi_1';
+    src: url('../fonts/custom-fonts/TraditionalArabic.woff2') format('woff2'),
+    url('../fonts/custom-fonts/TraditionalArabic.woff') format('woff'),
+    url('../fonts/custom-fonts/TraditionalArabic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DecoType Thuluth';
+    src: url('../fonts/custom-fonts/DecoTypeThuluth.woff2') format('woff2'),
+    url('../fonts/custom-fonts/DecoTypeThuluth.woff') format('woff'),
+    url('../fonts/custom-fonts/DecoTypeThuluth.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_SHMOOKH 01';
+    src: url('../fonts/custom-fonts/SC_SHMOOKH01.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_SHMOOKH01.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_SHMOOKH01.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_GULF';
+    src: url('../fonts/custom-fonts/SC_GULF.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_GULF.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_GULF.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hesham Fostat';
+    src: url('../fonts/custom-fonts/AF_Tabook-NormalTraditional.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AF_Tabook-NormalTraditional.woff') format('woff'),
+    url('../fonts/custom-fonts/AF_Tabook-NormalTraditional.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sultan';
+    src: url('../fonts/custom-fonts/Sultanlight.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Sultanlight.woff') format('woff'),
+    url('../fonts/custom-fonts/Sultanlight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_ALYERMOOK';
+    src: url('../fonts/custom-fonts/SC_ALYERMOOK.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_ALYERMOOK.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_ALYERMOOK.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sultan rectangle';
+    src: url('../fonts/custom-fonts/Sultanrectangle.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Sultanrectangle.woff') format('woff'),
+    url('../fonts/custom-fonts/Sultanrectangle.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALAWI-3-8';
+    src: url('../fonts/custom-fonts/AlawiHashimBafageeh.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.woff') format('woff'),
+    url('../fonts/custom-fonts/AlawiHashimBafageeh.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'mokhtar_daiery';
+    src: url('../fonts/custom-fonts/mokhtar_daiery.woff2') format('woff2'),
+    url('../fonts/custom-fonts/mokhtar_daiery.woff') format('woff'),
+    url('../fonts/custom-fonts/mokhtar_daiery.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'arabswell_1';
+    src: url('../fonts/custom-fonts/arabswell_1.woff2') format('woff2'),
+    url('../fonts/custom-fonts/arabswell_1.woff') format('woff'),
+    url('../fonts/custom-fonts/arabswell_1.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Rika S_U normal.';
+    src: url('../fonts/custom-fonts/MCSRikaS_Unormal.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSRikaS_Unormal.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSRikaS_Unormal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGA Sindibad';
+    src: url('../fonts/custom-fonts/AGA-SindibadRegular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AGA-SindibadRegular.woff') format('woff'),
+    url('../fonts/custom-fonts/AGA-SindibadRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS Diwani0 S_U normal.';
+    src: url('../fonts/custom-fonts/MCSDiwani0S_Unormal.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSDiwani0S_Unormal.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSDiwani0S_Unormal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Midan';
+    src: url('../fonts/custom-fonts/Midan.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Midan.woff') format('woff'),
+    url('../fonts/custom-fonts/Midan.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'khalaad al-arabeh 2';
+    src: url('../fonts/custom-fonts/khalaadal-arabeh2.woff2') format('woff2'),
+    url('../fonts/custom-fonts/khalaadal-arabeh2.woff') format('woff'),
+    url('../fonts/custom-fonts/khalaadal-arabeh2.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'sultan - free';
+    src: url('../fonts/custom-fonts/sultan-free.woff2') format('woff2'),
+    url('../fonts/custom-fonts/sultan-free.woff') format('woff'),
+    url('../fonts/custom-fonts/sultan-free.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_REHAN';
+    src: url('../fonts/custom-fonts/SC_REHAN.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_REHAN.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_REHAN.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AF_Jeddah';
+    src: url('../fonts/custom-fonts/AF_Jeddah-NormalTraditional.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AF_Jeddah-NormalTraditional.woff') format('woff'),
+    url('../fonts/custom-fonts/AF_Jeddah-NormalTraditional.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_AMEEN';
+    src: url('../fonts/custom-fonts/SC_AMEEN.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_AMEEN.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_AMEEN.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD_Farsi_1';
+    src: url('../fonts/custom-fonts/TraditionalArabic.woff2') format('woff2'),
+    url('../fonts/custom-fonts/TraditionalArabic.woff') format('woff'),
+    url('../fonts/custom-fonts/TraditionalArabic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'A- Tahrir 4';
+    src: url('../fonts/custom-fonts/A-Tahrir4.woff2') format('woff2'),
+    url('../fonts/custom-fonts/A-Tahrir4.woff') format('woff'),
+    url('../fonts/custom-fonts/A-Tahrir4.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_SHMOOKH 01';
+    src: url('../fonts/custom-fonts/SC_SHMOOKH01.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_SHMOOKH01.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_SHMOOKH01.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_GULF';
+    src: url('../fonts/custom-fonts/SC_GULF.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_GULF.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_GULF.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DecoType Thuluth';
+    src: url('../fonts/custom-fonts/DecoTypeThuluth.woff2') format('woff2'),
+    url('../fonts/custom-fonts/DecoTypeThuluth.woff') format('woff'),
+    url('../fonts/custom-fonts/DecoTypeThuluth.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hesham Fostat';
+    src: url('../fonts/custom-fonts/AF_Tabook-NormalTraditional.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AF_Tabook-NormalTraditional.woff') format('woff'),
+    url('../fonts/custom-fonts/AF_Tabook-NormalTraditional.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sultan';
+    src: url('../fonts/custom-fonts/Sultanlight.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Sultanlight.woff') format('woff'),
+    url('../fonts/custom-fonts/Sultanlight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_ALYERMOOK';
+    src: url('../fonts/custom-fonts/SC_ALYERMOOK.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_ALYERMOOK.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_ALYERMOOK.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_OUHOD';
+    src: url('../fonts/custom-fonts/SC_OUHOD.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_OUHOD.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_OUHOD.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreeHand';
+    src: url('../fonts/custom-fonts/MCSTaybahS_Unormal.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSTaybahS_Unormal.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSTaybahS_Unormal.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Generator';
+    src: url('../fonts/custom-fonts/GeneratorBlack.woff2') format('woff2'),
+    url('../fonts/custom-fonts/GeneratorBlack.woff') format('woff'),
+    url('../fonts/custom-fonts/GeneratorBlack.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pen Kufi';
+    src: url('../fonts/custom-fonts/PenKufi.woff2') format('woff2'),
+    url('../fonts/custom-fonts/PenKufi.woff') format('woff'),
+    url('../fonts/custom-fonts/PenKufi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Motken K Farnaz';
+    src: url('../fonts/custom-fonts/MotkenKFarnaz.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MotkenKFarnaz.woff') format('woff'),
+    url('../fonts/custom-fonts/MotkenKFarnaz.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MD_Naskh_13';
+    src: url('../fonts/custom-fonts/MD_NaskhExtensions.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MD_NaskhExtensions.woff') format('woff'),
+    url('../fonts/custom-fonts/MD_NaskhExtensions.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'mokhtar_bold';
+    src: url('../fonts/custom-fonts/mokhtar_bold.woff2') format('woff2'),
+    url('../fonts/custom-fonts/mokhtar_bold.woff') format('woff'),
+    url('../fonts/custom-fonts/mokhtar_bold.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS FREEDOM';
+    src: url('../fonts/custom-fonts/MCSFREEDOM.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSFREEDOM.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSFREEDOM.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quran 2';
+    src: url('../fonts/custom-fonts/Quran2.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Quran2.woff') format('woff'),
+    url('../fonts/custom-fonts/Quran2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SC_DUBAI';
+    src: url('../fonts/custom-fonts/SC_DUBAI.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SC_DUBAI.woff') format('woff'),
+    url('../fonts/custom-fonts/SC_DUBAI.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sultan';
+    src: url('../fonts/custom-fonts/SultanMedium.woff2') format('woff2'),
+    url('../fonts/custom-fonts/SultanMedium.woff') format('woff'),
+    url('../fonts/custom-fonts/SultanMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'faisal free';
+    src: url('../fonts/custom-fonts/faisalfree.woff2') format('woff2'),
+    url('../fonts/custom-fonts/faisalfree.woff') format('woff'),
+    url('../fonts/custom-fonts/faisalfree.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS ISLAND';
+    src: url('../fonts/custom-fonts/MCSISLAND.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSISLAND.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSISLAND.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS_Diwany';
+    src: url('../fonts/custom-fonts/FS_Diwany.woff2') format('woff2'),
+    url('../fonts/custom-fonts/FS_Diwany.woff') format('woff'),
+    url('../fonts/custom-fonts/FS_Diwany.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Tholoth Rounded';
+    src: url('../fonts/custom-fonts/Tholoth-RoundedReguler.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Tholoth-RoundedReguler.woff') format('woff'),
+    url('../fonts/custom-fonts/Tholoth-RoundedReguler.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MO_Nawel';
+    src: url('../fonts/custom-fonts/MO_Nawel.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MO_Nawel.woff') format('woff'),
+    url('../fonts/custom-fonts/MO_Nawel.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGA Kaleelah';
+    src: url('../fonts/custom-fonts/AGA-KaleelahRegular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AGA-KaleelahRegular.woff') format('woff'),
+    url('../fonts/custom-fonts/AGA-KaleelahRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AGA Granada';
+    src: url('../fonts/custom-fonts/AGA-GranadaRegular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AGA-GranadaRegular.woff') format('woff'),
+    url('../fonts/custom-fonts/AGA-GranadaRegular.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rekaa';
+    src: url('../fonts/custom-fonts/Rekaa-Reguler.woff2') format('woff2'),
+    url('../fonts/custom-fonts/Rekaa-Reguler.woff') format('woff'),
+    url('../fonts/custom-fonts/Rekaa-Reguler.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MCS SILVER';
+    src: url('../fonts/custom-fonts/MCSSILVER.woff2') format('woff2'),
+    url('../fonts/custom-fonts/MCSSILVER.woff') format('woff'),
+    url('../fonts/custom-fonts/MCSSILVER.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AL-Mateen';
+    src: url('../fonts/custom-fonts/AL-Mateen.woff2') format('woff2'),
+    url('../fonts/custom-fonts/AL-Mateen.woff') format('woff'),
+    url('../fonts/custom-fonts/AL-Mateen.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DTP Naskh 4';
+    src: url('../fonts/custom-fonts/DecoType-ProfessionalNaskhSupplement4Kashidahs.woff2') format('woff2'),
+    url('../fonts/custom-fonts/DecoType-ProfessionalNaskhSupplement4Kashidahs.woff') format('woff'),
+    url('../fonts/custom-fonts/DecoType-ProfessionalNaskhSupplement4Kashidahs.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Fake Receipt';
+    src: url('../fonts/custom-fonts/FakeReceipt-Regular.woff2') format('woff2'),
+    url('../fonts/custom-fonts/FakeReceipt-Regular.woff') format('woff'),
+    url('../fonts/custom-fonts/FakeReceipt-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

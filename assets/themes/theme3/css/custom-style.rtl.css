@@ -1,0 +1,13 @@
+body[dir='rtl']{
+    direction: rtl;
+}
+
+body[dir='rtl'] *{
+    direction: rtl;
+}
+
+@media (min-width: 1440px) {
+    header .nav-links-containers .nav-item {
+        margin-left: 10px;
+    }
+}
